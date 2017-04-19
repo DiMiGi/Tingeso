@@ -45,3 +45,6 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+/Cafeteria/nbproject/private/
+/Cafeteria/Cafeteria-war/nbproject/private/
+/Cafeteria/Cafeteria-ejb/nbproject/private/
