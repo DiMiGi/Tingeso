@@ -48,3 +48,6 @@ Temporary Items
 /Cafeteria/nbproject/private/
 /Cafeteria/Cafeteria-war/nbproject/private/
 /Cafeteria/Cafeteria-ejb/nbproject/private/
+/Cafeteria/Cafeteria-war/build/
+/Cafeteria/Cafeteria-ejb/dist/
+/Cafeteria/Cafeteria-ejb/build/
