@@ -1,4 +1,4 @@
-package Visitor;
+package DesignPatterns;
 
 //Imports
 import Classes.Food;

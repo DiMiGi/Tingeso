@@ -1,6 +1,6 @@
 package Classes;
 
-import Visitor.Visitor;
+import DesignPatterns.Visitor;
 
 
 //Creacion de funcion "accept", la cual se encarga de aceptar al visitor

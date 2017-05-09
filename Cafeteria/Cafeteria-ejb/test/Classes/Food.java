@@ -1,6 +1,6 @@
 package Classes;
 
-import Visitor.Visitor;
+import DesignPatterns.Visitor;
 
 public class Food implements Visitable{
     

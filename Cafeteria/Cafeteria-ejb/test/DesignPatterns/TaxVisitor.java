@@ -1,4 +1,4 @@
-package Visitor;
+package DesignPatterns;
 
 import Classes.Food;
 import Classes.Liquid;
