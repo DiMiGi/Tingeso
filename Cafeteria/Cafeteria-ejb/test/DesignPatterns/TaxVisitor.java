@@ -1,22 +1,18 @@
 package DesignPatterns;
 
-import Classes.Food;
-import Classes.Liquid;
+import Models.Foods;
+
+
 
 public class TaxVisitor implements Visitor{
 
     //Constructor
     public TaxVisitor(){}
     
-    //Metodos
     @Override
-    public int visit(Liquid liquidItem) {
-        return (liquidItem.getPrice());
+    public int visit(Foods foodItem) {
+        return ((int) (foodItem.getFoodsPrice() * 0.8));
     }
 
-    @Override
-    public int visit(Food foodItem) {
-        return (foodItem.getPrice());
-    }
-    
+
 }
